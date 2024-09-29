@@ -22,4 +22,4 @@ function getGrade() {
     alert(`The grade for marks ${marks} is: ${grade}`);
 }
 
-getGrade(marks);
+getGrade();
