@@ -26,6 +26,6 @@ if (!isNaN(speed) && speed >= 0) {
     // Call the function to check the speed
     checkSpeed(speed);
 } else {
-    console.log("Invalid input. Please enter a valid number.");
+    alert("Invalid input. Please enter a valid number.");
 }
 checkSpeed()
